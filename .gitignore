@@ -1,0 +1,13 @@
+# Build / IDE
+build/
+dist/
+nbproject/private/
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.log

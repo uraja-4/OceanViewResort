@@ -36,7 +36,7 @@
         </div>
     </nav>
     <div class="container py-4">
-        <h2 class="mb-4">Admin Dashboard</h2>
+        <h2 class="mb-4">Admin Dashboard <small class="text-muted fw-normal">— <%= new java.text.SimpleDateFormat("EEEE, d MMMM yyyy").format(new java.util.Date()) %></small</h2>
         <div class="row g-3 mb-4">
             <div class="col-md-4">
                 <div class="card border-primary">

@@ -36,7 +36,7 @@
             </div>
         </div>
         <div class="card mb-4">
-            <div class="card-header">My Reservations</div>
+            <div class="card-header">My Reservations <span class="badge bg-secondary ms-2">You have <%= reservations != null ? reservations.size() : 0 %> reservation(s)</span></div>
             <div class="card-body p-0">
                 <% if (reservations != null && !reservations.isEmpty()) { %>
                     <table class="table table-hover mb-0">

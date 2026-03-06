@@ -7,9 +7,9 @@
     <title>Register - Ocean View Resort</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
-        body { background: linear-gradient(135deg, #1e3a5f 0%, #0d2137 100%); min-height: 100vh; padding: 2rem 0; }
+        body { background: #f2f6fa; min-height: 100vh; padding: 2rem 0; }
         .card { border-radius: 1rem; box-shadow: 0 10px 40px rgba(0,0,0,0.3); }
-        .card-header { background: #0d6efd; color: white; border-radius: 1rem 1rem 0 0; padding: 1rem; font-weight: bold; }
+        .card-header { background: #2f68a8; color: white; border-radius: 1rem 1rem 0 0; padding: 1rem; font-weight: bold; }
     </style>
 </head>
 <body>
